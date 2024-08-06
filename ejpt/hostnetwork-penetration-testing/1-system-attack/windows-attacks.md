@@ -10,7 +10,7 @@ Most of the Windows vulnerabilities **exploits** are publicly available, making 
 - The older the O.S. version, the more vulnerable to attacks.
 - All of Windows operating systems share a similarity according to the development model.
   - `C` programming language - leads to buffer overflows, arbitrary code execution, etc
-  - No default security practices applied - must be sistematically handled by the company
+  - No default security practices applied - must be systematically handled by the company
   - Patching by Microsoft is not immediate, or versions are out of support/patching
 - To name a few, Windows `XP`, `7`, `Server 2008` and Server 2012, are still used by many companies and are ***largerly vulnerable***, leaving the systems open to new attack vectors.
   - Cross platform vulnerabilities, `e.g.` SQL injections, cross-site scripting (on IIS web servers)
